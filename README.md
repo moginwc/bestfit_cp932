@@ -29,4 +29,8 @@ CP932とUnicodeの一対一の対応関係をまとめたデータです。
 - EastAsianWidth.txt
 - bestfit932.txt
 
+## 参考
+
+[CP932⇔Unicode/UTF-8文字コード表](https://moginwc.sakura.ne.jp/other_cp932map.html)
+
 EOF
