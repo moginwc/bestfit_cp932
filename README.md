@@ -25,8 +25,8 @@ CP932とUnicodeの一対一の対応関係をまとめたデータです。
 
 ## データ出典
 
-・CP932.TXT
-・EastAsianWidth.txt
-・bestfit932.txt
+- CP932.TXT
+- EastAsianWidth.txt
+- bestfit932.txt
 
 EOF
