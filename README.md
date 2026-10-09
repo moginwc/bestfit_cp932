@@ -1,4 +1,4 @@
-# CP932とUNICODEの一対一の対応表
+# CP932とUnicodeの一対一の対応表
 
 ## 名称
 CP932とUnicodeの一対一の対応表
