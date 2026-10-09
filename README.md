@@ -33,5 +33,3 @@ CP932内には、重複して登録されている文字があります。その
 - bestfit932.txt
 
 - [CP932⇔Unicode/UTF-8文字コード表](https://moginwc.sakura.ne.jp/other_cp932map.html)
-
-EOF
