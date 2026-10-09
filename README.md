@@ -35,3 +35,7 @@ bestfit_cp932.txt
 - bestfit932.txt
 
 - [CP932⇔Unicode/UTF-8文字コード表](https://moginwc.sakura.ne.jp/other_cp932map.html)
+
+## 注意事項
+
+文字コード変換ツール、スクリプト言語の文字コード変換関数、テキストエディタなどの Unicode ⇒ CP932 変換処理は、必ずしも上記仕様に基づいているとは限らないため（特にNEC選定IBM拡張文字に割り当ててしまう処理系が多いです）、使用前に検証を推奨します。
